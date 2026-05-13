@@ -1,0 +1,34 @@
+formulas:
+  Untitled: "if(rating == 7, 'blue', if(rating == 6, 'green', if(rating == 5, 'orange', if(rating == 4, 'pink', if(rating == 3, 'magenta', if(rating == 2, 'brown', if(rating == 1, 'gray', 'black'))))))) "
+  Icon: if(type == 'site', 'landmark', 'badge-question-mark')
+properties:
+  formula.Untitled:
+    displayName: Color
+views:
+  - type: map
+    name: Map View
+    filters:
+      and:
+        - file.inFolder("Greece 2026/entries")
+    order:
+      - file.name
+      - location
+      - type
+      - rating
+      - cost
+      - page
+      - source
+      - tags
+      - formula.Untitled
+    coordinates: note.location
+    center: ""
+    markerIcon: formula.Icon
+    markerColor: formula.Untitled
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("France 2025/entries")
+    order:
+      - file.name
+      - coordinates
