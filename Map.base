@@ -1,6 +1,6 @@
 formulas:
   Untitled: "if(rating == 7, 'blue', if(rating == 6, 'green', if(rating == 5, 'orange', if(rating == 4, 'pink', if(rating == 3, 'magenta', if(rating == 2, 'brown', if(rating == 1, 'gray', 'black'))))))) "
-  Icon: if(type == 'site', 'landmark', 'badge-question-mark')
+  Icon: if(type == 'site', 'amphora', if(type == 'museum', 'landmark', 'badge-question-mark'))
 properties:
   formula.Untitled:
     displayName: Color
@@ -20,6 +20,7 @@ views:
       - source
       - tags
       - formula.Untitled
+      - formula.Icon
     coordinates: note.location
     center: ""
     markerIcon: formula.Icon
