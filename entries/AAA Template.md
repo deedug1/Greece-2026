@@ -1,0 +1,10 @@
+---
+location:
+type:
+rating:
+cost:
+hours:
+link:
+map-link:
+visit:
+---

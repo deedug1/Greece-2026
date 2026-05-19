@@ -1,6 +1,21 @@
 formulas:
-  Untitled: "if(rating == 7, 'blue', if(rating == 6, 'green', if(rating == 5, 'orange', if(rating == 4, 'pink', if(rating == 3, 'magenta', if(rating == 2, 'brown', if(rating == 1, 'gray', 'black'))))))) "
-  Icon: if(type == 'site', 'amphora', if(type == 'museum', 'landmark', 'badge-question-mark'))
+  Untitled: "if(rating == 7, 'orangered', if(rating == 6, 'gold', if(rating == 5, 'seagreen', if(rating == 4, 'cornflowerblue', if(rating == 3, 'darkslateblue', if(rating == 2, 'darkmagenta', if(rating == 1, 'sienna', 'white'))))))) "
+  Icon: |-
+    if(type == 'site', 'map-pin', if(type == 'museum', 'landmark', if(type == 'hike', 'moutain' if(type == 'tour', 'binoculars'
+    if(type == 'food', 'hamburger'
+    if(type == 'park', 'trees'
+    if(Type == 'beach', 'tree-palm'
+    if(type == 'castel', 'castle'
+    if(type == 'show', 'drama'
+    if(type == 'activity', 'bike'
+    if(type == 'garden','flower-2'
+    if(type == 'shop', 'shopping-basket'
+    if(type == 'winery', 'wine'
+    if(type == 'ruins', 'book-dashed'
+    if(type == 'boat excusion', 'ship'
+    ))))))))) 'badge-question-mark'))
+  Untitled 2: ""
+  Untitled 3: ""
 properties:
   formula.Untitled:
     displayName: Color
@@ -13,13 +28,15 @@ views:
     order:
       - file.name
       - location
-      - type
-      - rating
       - cost
       - page
       - source
       - tags
       - formula.Untitled
+      - formula.Untitled 3
+      - type
+      - visit
+      - rating
       - formula.Icon
     coordinates: note.location
     center: ""
