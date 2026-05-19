@@ -9,7 +9,7 @@ views:
     name: Map View
     filters:
       and:
-        - file.inFolder("Greece 2026/entries")
+        - file.inFolder("Greece-2026/entries")
     order:
       - file.name
       - location
