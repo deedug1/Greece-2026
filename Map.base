@@ -1,19 +1,18 @@
 formulas:
-  Untitled: "if(rating == 7, 'orangered', if(rating == 6, 'gold', if(rating == 5, 'seagreen', if(rating == 4, 'cornflowerblue', if(rating == 3, 'darkslateblue', if(rating == 2, 'darkmagenta', if(rating == 1, 'sienna', 'white'))))))) "
+  Untitled: "if(rating == 7, 'orangered', if(rating == 6, 'gold', if(rating == 5, 'seagreen', if(rating == 4, 'cornflowerblue', if(rating == 3, 'darkslateblue', if(rating == 2, 'darkmagenta', if(rating == 1, 'sienna', 'magenta'))))))) "
   Icon: |-
-    if(type == 'site', 'map-pin', if(type == 'museum', 'landmark', if(type == 'hike', 'moutain' if(type == 'tour', 'binoculars'
-    if(type == 'food', 'hamburger'
-    if(type == 'park', 'trees'
-    if(Type == 'beach', 'tree-palm'
-    if(type == 'castel', 'castle'
-    if(type == 'show', 'drama'
-    if(type == 'activity', 'bike'
-    if(type == 'garden','flower-2'
-    if(type == 'shop', 'shopping-basket'
-    if(type == 'winery', 'wine'
-    if(type == 'ruins', 'book-dashed'
-    if(type == 'boat excusion', 'ship'
-    ))))))))) 'badge-question-mark'))
+    if(type == 'site', 'map-pin', if(type == 'museum', 'landmark', if(type == 'hike', 'mountain', if(type == 'tour', 'binoculars',
+    if(type == 'food', 'hamburger',
+    if(type == 'park', 'trees',
+    if(Type == 'beach', 'tree-palm',
+    if(type == 'castle', 'castle',
+    if(type == 'show', 'drama',
+    if(type == 'activity', 'bike',
+    if(type == 'garden','flower-2',
+    if(type == 'shop', 'shopping-basket',
+    if(type == 'winery', 'wine',
+    if(type == 'ruins', 'book-dashed',
+    if(type == 'boat excusion', 'ship', 'badge-question-mark')))))))))))))))
   Untitled 2: ""
   Untitled 3: ""
 properties:
@@ -36,8 +35,8 @@ views:
       - formula.Untitled 3
       - type
       - visit
-      - rating
       - formula.Icon
+      - rating
     coordinates: note.location
     center: ""
     markerIcon: formula.Icon
@@ -46,7 +45,10 @@ views:
     name: Table
     filters:
       and:
-        - file.inFolder("France 2025/entries")
+        - file.inFolder("Greece-2026/entries")
+        - type == "boat excursion"
     order:
       - file.name
-      - coordinates
+      - rating
+      - type
+      - location

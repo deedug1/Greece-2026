@@ -1,7 +1,7 @@
 ---
 location: 37.973002275536125, 23.7260699221397
 type: museum
-rating:
+rating: 1
 cost:
 hours: closed
 link: https://camu.gr/en/visit/plan-your-visit/
