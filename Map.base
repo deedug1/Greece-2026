@@ -33,10 +33,10 @@ views:
       - tags
       - formula.Untitled
       - formula.Untitled 3
-      - type
       - visit
-      - formula.Icon
       - rating
+      - type
+      - formula.Icon
     coordinates: note.location
     center: ""
     markerIcon: formula.Icon
