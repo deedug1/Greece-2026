@@ -1,5 +1,5 @@
 ---
-location: 36.53866631163885, 32.00382940444903
+location: 36.53732900860423, 31.99976328817903
 type: boat excursion
 rating:
 cost: 89

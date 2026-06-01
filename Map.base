@@ -52,3 +52,6 @@ views:
       - rating
       - type
       - location
+    sort:
+      - property: location
+        direction: ASC
