@@ -1,7 +1,7 @@
 ---
 location: 37.44479545147237, 25.32605518166261
 type: site
-rating:
+rating: 3
 cost:
 hours:
 link:

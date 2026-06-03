@@ -1,7 +1,7 @@
 ---
 location: 37.05581824289091, 25.208643077957746
 type: cafe
-rating:
+rating: 3
 cost:
 hours: 9:30am-11:30pm
 link:

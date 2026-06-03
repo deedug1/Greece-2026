@@ -1,7 +1,7 @@
 ---
 location: 36.44520437865419, 28.211086597329285
 type: beach
-rating:
+rating: 3
 cost:
 hours:
 link:

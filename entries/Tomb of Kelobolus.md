@@ -1,7 +1,7 @@
 ---
 location: 36.1015747054117, 28.097875266948524
 type: hike
-rating:
+rating: 4
 cost:
 hours:
 link: https://www.alltrails.com/explore/trail/greece/rhodes/lindos-peninsula-lookout

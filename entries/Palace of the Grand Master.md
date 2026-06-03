@@ -1,7 +1,7 @@
 ---
 location: 36.4456992762491, 28.225227103836122
 type: museum
-rating:
+rating: 4
 cost: 30
 hours: 8am-8pm
 link: https://palaceofthegrandmaster.com/

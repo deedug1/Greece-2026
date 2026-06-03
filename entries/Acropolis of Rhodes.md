@@ -1,7 +1,7 @@
 ---
 location: 36.44079689685822, 28.213523470122404
 type: ruins
-rating:
+rating: 3
 cost:
 hours:
 link:

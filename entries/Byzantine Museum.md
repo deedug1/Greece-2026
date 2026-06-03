@@ -1,7 +1,7 @@
 ---
 location: 37.08517877345415, 25.152206833833777
 type: museum
-rating:
+rating: 3
 cost: 3
 hours: 7am-10pm
 link:

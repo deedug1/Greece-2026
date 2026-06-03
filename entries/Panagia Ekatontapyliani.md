@@ -1,7 +1,7 @@
 ---
 location: 37.08510334139255, 25.152543554161493
 type: church
-rating:
+rating: 2
 cost:
 hours: Mon-Sun 7AM-9PM
 link:

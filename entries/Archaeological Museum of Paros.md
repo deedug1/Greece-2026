@@ -1,7 +1,7 @@
 ---
 location: 37.08445994521084, 25.153217401334018
 type: museum
-rating:
+rating: 3
 cost: 5
 hours: Wed-Sun 8:30am-3:30pm
 link: https://archaeologicalmuseums.gr/el/museum/5df34af3deca5e2d79e8c198/archaeological-museum-of-paros

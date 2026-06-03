@@ -1,7 +1,7 @@
 ---
 location: 36.33334470267185, 28.207587453719913
 type: activity
-rating:
+rating: 6
 cost: 90
 hours: 8am-1pm
 link: https://trekking.gr/en/activities/sea-kayaking-tour-the-pirates-route

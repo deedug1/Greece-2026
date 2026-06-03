@@ -1,7 +1,7 @@
 ---
 location: 36.44566389849171, 28.22833684681939
 type: museum
-rating:
+rating: 3
 cost: 5
 hours: Wed-Sun 8:30am-3:30pm
 link: https://archaeologicalmuseums.gr/en/museum/5df34af3deca5e2d79e8c13f/decorative-arts-collection-of-rhodes

@@ -1,7 +1,7 @@
 ---
 location: 36.44483754473901, 28.227648133199498
 type: museum
-rating:
+rating: 3
 cost: 10
 hours: 8am-8pm
 link: https://archaeologicalmuseums.gr/en/museum/5df34af3deca5e2d79e8c136/archaeological-museum-of-rhodes

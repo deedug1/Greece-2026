@@ -1,7 +1,7 @@
 ---
 location: 37.444529016993506, 25.327817985347263
 type: food
-rating:
+rating: 5
 cost:
 hours: 8am-10pm
 link:

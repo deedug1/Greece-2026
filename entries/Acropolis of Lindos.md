@@ -1,7 +1,7 @@
 ---
 location: 36.091822825019115, 28.089137291730246
 type: ruins
-rating:
+rating: 3
 cost: 25
 hours: Mon-Sun 8AM-7PM
 link: https://lindos-rhodes.gr/

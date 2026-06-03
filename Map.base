@@ -12,7 +12,10 @@ formulas:
     if(type == 'shop', 'shopping-basket',
     if(type == 'winery', 'wine',
     if(type == 'ruins', 'book-dashed',
-    if(type == 'boat excusion', 'ship', 'badge-question-mark')))))))))))))))
+    if(type == 'boat excursion', 'ship', 
+    if(type == 'cafe', 'coffee',
+    if(type == 'church', 'church', 'badge-question-mark'
+    )))))))))))))))))
   Untitled 2: ""
   Untitled 3: ""
 properties:
@@ -53,5 +56,7 @@ views:
       - type
       - location
     sort:
+      - property: file.name
+        direction: ASC
       - property: location
         direction: ASC

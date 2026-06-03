@@ -1,7 +1,7 @@
 ---
 location: 37.46426099500634, 25.442111475851053
 type: tour
-rating:
+rating: 5
 cost:
 hours:
 link: https://yummypedals.gr/index.php

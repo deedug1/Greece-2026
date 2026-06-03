@@ -1,7 +1,7 @@
 ---
 location: 37.40053460522782, 25.264834258912895
 type: boat excursion
-rating:
+rating: 5
 cost: 124
 hours: 9:30am-1:30pm
 link:

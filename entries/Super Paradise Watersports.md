@@ -1,7 +1,7 @@
 ---
 location: 37.4150676360461, 25.368988708630486
 type: activity
-rating:
+rating: 4
 cost:
 hours: Mon-Sun 11AM-6PM
 link: https://www.superparadisewatersports.com/recreational/

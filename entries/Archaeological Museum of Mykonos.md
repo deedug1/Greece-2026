@@ -1,7 +1,7 @@
 ---
 location: 37.450159483819014, 25.329961148590744
 type: museum
-rating:
+rating: 3
 cost: 5
 hours: Wed-Mon 9am-4pm
 link: http://odysseus.culture.gr/h/1/eh155.jsp?obj_id=3301

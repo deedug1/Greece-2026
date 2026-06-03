@@ -1,7 +1,7 @@
 ---
 location: 37.4211158811501, 25.33281444800304
-type:
-rating:
+type: activity
+rating: 4
 cost:
 hours: 8am-2pm
 link: https://www.mykonosfarmers.com/
