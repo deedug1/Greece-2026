@@ -1,7 +1,7 @@
 ---
 location: 36.92379168194107, 30.807981883835172
 type: tour
-rating:
+rating: 5
 cost:
 hours:
 link: https://mithratravel.com/culture-and-history-tours/

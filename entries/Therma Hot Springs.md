@@ -1,7 +1,7 @@
 ---
 location: 36.844774903912004, 27.316558713491816
 type: beach
-rating:
+rating: 4
 cost:
 hours:
 link: https://therma-springs.com/

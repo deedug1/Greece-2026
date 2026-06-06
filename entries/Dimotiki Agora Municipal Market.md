@@ -1,7 +1,7 @@
 ---
 location: 36.89305601422224, 27.28913636946813
 type: shop
-rating:
+rating: 4
 cost:
 hours: 8:30am-10:30pm
 link:

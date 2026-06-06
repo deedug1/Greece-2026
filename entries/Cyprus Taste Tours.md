@@ -1,7 +1,7 @@
 ---
-location: 34.65138027962156, 33.016335541970115
+location: 34.65262349663417, 33.0164725686321
 type: tour
-rating:
+rating: 6
 cost:
 hours:
 link: https://cyprustastetours.com/cruise-passengers/

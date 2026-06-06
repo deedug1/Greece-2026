@@ -1,7 +1,7 @@
 ---
 location: 36.88476009290124, 30.709232554758334
 type: museum
-rating:
+rating: 4
 cost:
 hours: Tues-Sun 9AM-6PM
 link: https://akmed.ku.edu.tr/en/kaleici-museum/#visit

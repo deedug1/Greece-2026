@@ -1,7 +1,7 @@
 ---
 location: 36.848949594067555, 30.814389071163944
 type: museum
-rating:
+rating: 6
 cost: 12
 hours: Mon-Sun 9AM-7PM
 link: https://www.sandlandantalya.com/

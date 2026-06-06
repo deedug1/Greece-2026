@@ -1,7 +1,7 @@
 ---
 location: 36.896342600493114, 27.290881990869266
-type:
-rating:
+type: castle
+rating: 4
 cost:
 hours: 8:30am-3:30pm
 link:

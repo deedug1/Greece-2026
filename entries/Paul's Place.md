@@ -1,7 +1,7 @@
 ---
 location: 36.8831516583914, 30.70681592562435
 type: food
-rating:
+rating: 4
 cost:
 hours: 9:30am-5:30pm
 link: https://www.spccturkey.com/pauls-place

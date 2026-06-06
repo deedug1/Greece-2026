@@ -49,14 +49,15 @@ views:
     filters:
       and:
         - file.inFolder("Greece-2026/entries")
-        - type == "boat excursion"
     order:
       - file.name
       - rating
       - type
       - location
     sort:
-      - property: file.name
+      - property: rating
         direction: ASC
-      - property: location
+      - property: type
+        direction: ASC
+      - property: file.name
         direction: ASC

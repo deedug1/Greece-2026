@@ -1,7 +1,7 @@
 ---
 location: 34.672253670111914, 33.04084539718414
 type: food
-rating:
+rating: 4
 cost:
 hours:
 link: https://carobmill-restaurants.com/

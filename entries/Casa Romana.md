@@ -1,7 +1,7 @@
 ---
 location: 36.89033483380935, 27.290907029032034
 type: site
-rating:
+rating: 4
 cost:
 hours: Wed-Mon 8:30am-3:30pm
 link:

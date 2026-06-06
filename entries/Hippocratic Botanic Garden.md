@@ -1,7 +1,7 @@
 ---
 location: 36.81274126905358, 27.060673949111756
-type:
-rating:
+type: garden
+rating: 3
 cost: 6
 hours: 9am-6pm
 link: https://hippocratesgarden.gr/

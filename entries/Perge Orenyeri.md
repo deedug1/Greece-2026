@@ -1,7 +1,7 @@
 ---
 location: 36.95837890771857, 30.853635909300337
 type: ruins
-rating:
+rating: 4
 cost: 11
 hours: 8am-7:30pm
 link: https://muze.gov.tr/muze-detay?sectionId=PRG01&distId=PRG

@@ -1,7 +1,7 @@
 ---
 location: 36.89451913382642, 27.288861531058892
 type: museum
-rating:
+rating: 3
 cost: 10
 hours: Wed-Mon 8am-8pm
 link: https://archaeologicalmuseums.gr/en/museum/5df34af3deca5e2d79e8c12c/archaeological-museum-of-kos

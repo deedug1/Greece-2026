@@ -1,7 +1,7 @@
 ---
 location: 36.83464339504554, 27.20712437470327
 type: hike
-rating:
+rating: 4
 cost:
 hours:
 link: https://www.alltrails.com/explore/trail/greece/kos/mount-dikeos

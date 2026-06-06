@@ -1,7 +1,7 @@
 ---
 location: 36.88623315728938, 30.70160917959261
 type: museum
-rating:
+rating: 3
 cost: 0
 hours: Tues-Sun 9AM-6PM
 link: https://oyuncakmuzesi.antalya.bel.tr/

@@ -1,7 +1,7 @@
 ---
 location: 36.893267865370724, 27.289851389543774
 type: ruins
-rating:
+rating: 4
 cost:
 hours: 8am-8pm
 link:

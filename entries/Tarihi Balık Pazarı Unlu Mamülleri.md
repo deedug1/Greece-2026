@@ -1,7 +1,7 @@
 ---
 location: 36.88482785141756, 30.705521125625406
 type: food
-rating:
+rating: 4
 cost:
 hours: 24/7
 link:

@@ -1,7 +1,7 @@
 ---
 location: 34.676139686369126, 32.93233259079497
 type: castle
-rating:
+rating: 3
 cost: 3
 hours: Mon-Sun 8AM-5PM
 link: https://www.visitcyprus.com/discover-cyprus/culture/sites-and-monuments/kolossi-medieval-castle/

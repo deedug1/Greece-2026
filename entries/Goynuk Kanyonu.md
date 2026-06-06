@@ -1,7 +1,7 @@
 ---
 location: 36.68305726656729, 30.5371884456324
 type: activity
-rating:
+rating: 6
 cost:
 hours:
 link: https://goynukcanyon.com/

@@ -1,7 +1,7 @@
 ---
 location: 36.800725824742145, 27.089587632979022
 type: park
-rating:
+rating: 4
 cost:
 hours:
 link:
